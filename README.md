@@ -15,7 +15,7 @@
 ------
 
 NAME:
-   禅道 - 身份认证绕过
+   禅道 - zentaosid身份认证绕过
 
 USAGE:
     [global options] command [command options] [arguments...]
