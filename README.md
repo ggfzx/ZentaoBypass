@@ -7,7 +7,9 @@
 ------
 
 16.x <= version < 18.12（开源版）
+
 3.x <= version < 4.12（旗舰版）
+
 6.x <= version < 8.12（企业版）
 
 ------
@@ -23,12 +25,19 @@ COMMANDS:
 
 GLOBAL OPTIONS:
    --target_url url, -u url       读取单个目标的url
+   
    --target_file File, -f File    从File读取批量读取URL
+   
    --target_user value, -a value  用户名
+   
    --target_pass value, -b value  密码
+   
    --output File, -o File         扫描结果输出到File (default: "success.txt")
+   
    --proxy url, -p url            代理的url地址
+   
    --thread 数量, -t 数量          批量扫描时的线程数量 (default: 20)
+   
    --help, -h                     show help
 
 ------
